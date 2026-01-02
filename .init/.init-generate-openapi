@@ -1,0 +1,4 @@
+{
+    "command": "npm install && node generate_openapi.js",
+    "working_directory": "/home/kavia/workspace/code-generation/e-commerce-backend-system-302508-302517/backend_api"
+}
